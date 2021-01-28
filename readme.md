@@ -21,8 +21,8 @@ Tool to manage crons in setcronjob in bulk
 
 ### To disable a list of cron ids
 
-```./main --command=enable -ids=<list of comma separated cron ids> -token=<setcronjob token>```
+```./main --command=disable -ids=<list of comma separated cron ids> -token=<setcronjob token>```
 
 ### To run a list of cron ids
 
-```./main --command=enable -ids=<list of comma separated cron ids> -token=<setcronjob token>```
+```./main --command=run -ids=<list of comma separated cron ids> -token=<setcronjob token>```
