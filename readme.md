@@ -13,7 +13,7 @@ Tool to manage crons in setcronjob in bulk
 
 ### To get list of all enabled crons ids
 
-```./main --command=list-enable -token=<setcronjob token>```
+```./main --command=list-enabled -token=<setcronjob token>```
 
 ### To enable a list of cron ids
 
